@@ -1,4 +1,10 @@
-### TECH STACK
+<h1 align="center">TECH STACK</h1>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 <br>
 
