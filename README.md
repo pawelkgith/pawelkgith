@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,mysql&theme=dark&perline=7" alt="Tech Stack" />
 </p>
 
