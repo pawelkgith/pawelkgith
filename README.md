@@ -1,28 +1,11 @@
-<h1 align="center">TECH STACK</h1>
-
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=TECH%20STACK&height=70&fontSize=30&fontWeight=800" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,mysql&theme=dark&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,vite,html,css,sass,mysql&theme=dark&perline=8" />
 </p>
-
-<!--
-**pawelkgith/pawelkgith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
