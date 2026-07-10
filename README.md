@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,vite,html,css,sass,mysql&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,vite,html,css,sass,tailwind,mysql&theme=dark&perline=9" />
 </p>
